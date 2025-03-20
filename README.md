@@ -42,3 +42,7 @@ The project is intended for individuals who want to store private, tamper-proof 
 - **Ownership Control**: Each user has full control over their own diary entries. Only the user who created the entry can modify or view it.
 - **Decentralization**: The data is stored on the blockchain, removing the reliance on any centralized service or entity, enhancing privacy and resilience.
 - **Gas Optimized**: The contract is designed to be efficient and reduce gas costs by using efficient data types and modifiers.
+
+- ##Contract Address:0x2f4517d20fc6704eda20d701b2efcc809fed31d8
+- ![Screenshot (4)](https://github.com/user-attachments/assets/04afb454-820e-4781-9394-ba4ec5bb9852)
+
