@@ -1,16 +1,4 @@
-# Simple Blockchain-Based Diary
-
-## Table of Contents
-
-- [Simple blockchain-based diary](#simple-blockchain-based-diary)
-- [Project Description](#project-description)
-- [Project Vision](#project-vision)
-- [Future Scope](#future-scope)
-- [Key Features](#key-features)
-
-## Simple blockchain-based diary
-
-The **Simple Blockchain-Based Diary** provides a secure and private way for users to store their diary entries on the Ethereum blockchain. The entries are encrypted, ensuring that the content is private and can only be viewed by the user who created them. The diary is tamper-proof, and the entries are stored immutably, ensuring that no one, including the user themselves, can alter the history of their entries.
+## Simple Blockchain-Based Diary
 
 ## Project Description
 
