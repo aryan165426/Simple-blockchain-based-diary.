@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blockchain Diary</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div id="app" class="app">
+        <header class="header">
+            <h1 class="title">My Blockchain Diary</h1>
+            <button id="connectWallet" class="wallet-btn">Connect Wallet</button>
+        </header>
+        
+        <div class="content">
+            <div class="diary-form">
+                <h2>Add a New Entry</h2>
+                <textarea id="diaryEntry" class="diary-input" placeholder="Write your thoughts..." rows="5"></textarea>
+                <button id="submitEntry" class="btn">Add Entry</button>
+                <div id="loadingMessage" class="loading">Submitting...</div>
+            </div>
+
+            <div class="entries-section">
+                <h2>Previous Entries</h2>
+                <ul id="entryList" class="entry-list">
+                    <!-- Diary entries will be dynamically loaded here -->
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/web3@1.6.1/dist/web3.min.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>
